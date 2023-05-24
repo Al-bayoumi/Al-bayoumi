@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed El-Bayoumi</h1>
-<h3 class="left h6">A front-end developer and a second-year student at the Faculty of Computers and Information, Zagazig University</h3>
+<h5 class="left">A front-end developer and a second-year student at the Faculty of Computers and Information, Zagazig University</h5>
 
 <p align="left"> <a href="https://twitter.com/elbayoumi_10" target="blank"><img src="https://img.shields.io/twitter/follow/elbayoumi_10?logo=twitter&style=for-the-badge" alt="elbayoumi_10" /></a> </p>
 
