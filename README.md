@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed El-Bayoumi</h1>
 <h4 align="left">A front-end developer and a second-year student at the Faculty of Computers and Information, Zagazig University</h4>
 
-- ⚡ My key skills include HTML, CSS, JavaScript, ESNext, jQuery, Bootstrap, SASS, Tailwind CSS, Responsive Design, React, Redux, Next.js, TypeScript, Axios, Node.js, Git & GitHub. **React**
+- ⚡ My key skills include HTML, CSS, JavaScript, jQuery, Bootstrap, SASS, Tailwind CSS, Responsive Design, Redux, TypeScript, Axios, Git & GitHub. **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Al-bayoumi](https://github.com/Al-bayoumi)
 
