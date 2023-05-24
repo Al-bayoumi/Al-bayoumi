@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohamed El-Bayoumi</h1>
-<h3 align="center">As a Front-End Developer, I'm passionate about pushing the boundaries of web design/development and creating immersive user experiences. I'm well-versed in HTML, CSS, and JavaScript, and have honed my skills using frameworks and tools such as Tailwind, Bootstrap, ReactJS, Sass, and TypeScript. Through my personal projects, I'm constantly expanding my skill set and staying up-to-date with the latest industry trends.</h3>
+<h3 align="center">Front End Developer and a second year student at the Faculty of Computers and Information, Zagazig University</h3>
+
+- 👨‍💻 All of my projects are available at [https://github.com/Al-bayoumi](https://github.com/Al-bayoumi)
+
+- 📫 How to reach me **mohamedelsayed10zm@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/elbayoumi_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elbayoumi_10" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://linkedin.com/in/mohamed-el-bayoumi-67b0a6260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/mohamed-el-bayoumi-67b0a6260" height="30" width="40" /></a>
 <a href="https://fb.com/https://facebook.com/elbayoumi.10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com/elbayoumi.10" height="30" width="40" /></a>
 <a href="https://instagram.com/https://instagram.com/mohamedel_bayoumi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/mohamedel_bayoumi" height="30" width="40" /></a>
