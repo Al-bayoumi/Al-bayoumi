@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed El-Bayoumi</h1>
-<h5 align="left">A front-end developer and a second-year student at the Faculty of Computers and Information, Zagazig University</h5>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=al-bayoumi&label=Profile%20views&color=0e75b6&style=flat" alt="al-bayoumi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=al-bayoumi" alt="al-bayoumi" /></a> </p>
+<h4 align="center">A front-end developer and a second-year student at the Faculty of Computers and Information, Zagazig University</h4>
 
 <p align="left"> <a href="https://twitter.com/elbayoumi_10" target="blank"><img src="https://img.shields.io/twitter/follow/elbayoumi_10?logo=twitter&style=for-the-badge" alt="elbayoumi_10" /></a> </p>
 
